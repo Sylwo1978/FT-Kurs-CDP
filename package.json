@@ -1,0 +1,23 @@
+{
+  "name": "ft-kurs-cdp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sylwo1978/FT-Kurs-CDP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sylwo1978/FT-Kurs-CDP/issues"
+  },
+  "homepage": "https://github.com/Sylwo1978/FT-Kurs-CDP#readme",
+  "devDependencies": {
+    "cypress": "^12.3.0",
+    "@faker-js/faker": "7.6.0"
+  }
+}
