@@ -14,9 +14,9 @@ cy.get('#menu-item-923').click
 //class
     cy.get('.menu-item menu-item-type-post_type menu-item-object-page menu-item-923').click()
     cy.get('.menu-item menu-item-type-custom menu-item-object-custom menu-item-1023').click()
-    y.get('.menu-item menu-item-type-custom menu-item-object-custom menu-item-1692').click()
+    cy.get('.menu-item menu-item-type-custom menu-item-object-custom menu-item-1692').click()
     cy.get('.menu-item menu-item-type-custom menu-item-object-custom menu-item-224').click()
-c   y.get('.menu-item menu-item-type-custom menu-item-object-custom menu-item-3992').click()
+    cy.get('.menu-item menu-item-type-custom menu-item-object-custom menu-item-3992').click()
 
 //atrybut 
 cy.get('input[name="wpforms[fields][0]"]').click
